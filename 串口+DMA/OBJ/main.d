@@ -38,3 +38,4 @@
 ..\obj\main.o: D:\work\MDK540\ARM\ARMCC\Bin\..\include\stdio.h
 ..\obj\main.o: ..\HARDWARE\KEY\key.h
 ..\obj\main.o: ..\HARDWARE\DMA\dma.h
+..\obj\main.o: D:\work\MDK540\ARM\ARMCC\Bin\..\include\string.h
